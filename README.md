@@ -1,4 +1,4 @@
-## Hi there 👋
+![Estadísticas de GitHub de Rodrigo](https://github-readme-stats.vercel.app/api?username=RodrigoEdgardoReyes&show_icons=true&theme=merko)
 
 <!--
 **RodrigoEdgardoReyes/RodrigoEdgardoReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
